@@ -58,8 +58,8 @@ export default function MainGenerator() {
             <HeaderLogo />
           </div>
 
-          <p className="mb-6 font-semibold">
-            Random Password Generator
+          <p className="mb-6 font-semibold text-secondary">
+            Password Randomizer
           </p>
 
           <div className="flex flex-row w-full">
