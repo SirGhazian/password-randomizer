@@ -1,6 +1,6 @@
 export default function ThemeController() {
   return (
-    <div className="absolute top-3 right-3">
+    <div className="absolute sm:top-4 md:top-3 sm:right-4 md:right-3">
       <label className="swap swap-rotate">
         {/* this hidden checkbox controls the state */}
         <input

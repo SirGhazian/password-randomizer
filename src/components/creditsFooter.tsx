@@ -2,7 +2,7 @@ export default function CreditsFooter() {
   return (
     <>
       {/* CREDITS */}
-      <p className="mt-12 text-sm">
+      <p className="sm:mt-4 md:mt-12 text-sm">
         <span>Crafted with</span>
         <span className="relative mx-2 text-accent">
           <i className="fa-solid fa-heart z-10" />
