@@ -3,6 +3,8 @@ This project is a React-based application created using React Vite that allows u
 
 </br>
 
+Live demo: https://password-randomizer.vercel.app/
+
 ## Features
 - **Password Generation**: Create passwords that include alphabets, numbers, and symbols.
 - **Customizable Length**: Adjust the length of the generated password using a slider.
