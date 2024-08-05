@@ -1,20 +1,33 @@
-# Random Password Generator (ReactJs)
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/024f439c-0a8f-4a7f-9833-8d8e53e7d30e">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/fc4c899c-e159-4b7c-a5c9-1d2daeb5f04d">
+  <img alt="Header" height="80" >
+</picture>
+</div>
+
+<img src="https://github.com/user-attachments/assets/1acb07dc-34ff-424b-ad9f-7baa0da7540d" width="100%" height="2px"/>
+<p/>
+
+
 This project is a React-based application created using React Vite that allows users to generate secure random passwords. The application provides an interactive user interface where you can customize the password generation criteria and copy the generated password to the clipboard with ease.
 
 </br>
 
 Live demo: https://password-randomizer.vercel.app/
 
-## Features
+## 【 Features 】
 - **Password Generation**: Create passwords that include alphabets, numbers, and symbols.
 - **Customizable Length**: Adjust the length of the generated password using a slider.
 - **Interactive UI**: Easily toggle options to include or exclude alphabets, numbers, and symbols.
 - **Copy to Clipboard**: Copy the generated password to your clipboard with a single click.
 - **Responsive Design**: Works well on both mobile and desktop devices.
 
-</br>
+<img src="https://github.com/user-attachments/assets/2143a992-4b29-4a90-8e5b-3883cef7cf23" width="60%"/>
 
-## Installation
+</br></br>
+
+## 【 Installation 】
 Follow these steps to set up the project locally:
 
 1. **Clone the Repository**
@@ -30,7 +43,7 @@ Install the necessary dependencies using npm:
 
 </br>
 
-## Usage
+## 【 Usage 】
 1. **Start the Development Server**
 Run the development server to see the application in action:
    ```sh
@@ -45,5 +58,5 @@ Run the development server to see the application in action:
 
 </br>
 
-## Contributing
+## 【 Contributing 】
 Contributions are welcome! If you have suggestions or improvements, feel free to submit a pull request or open an issue.
