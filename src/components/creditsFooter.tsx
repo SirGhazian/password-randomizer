@@ -6,7 +6,7 @@ export default function CreditsFooter() {
         <span>Crafted with</span>
         <span className="relative mx-2 text-accent">
           <i className="fa-solid fa-heart z-10" />
-          <i className="absolute fa-solid fa-heart text-red-400 left-0 top-1 animate-ping" />
+          <i className="absolute fa-solid fa-heart left-0 top-1 animate-ping" />
         </span>
         <span>
           by{" "}
